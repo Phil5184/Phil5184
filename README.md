@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Phillip Mai! I'm a 3rd year Computer Engineering major at UCSD, and I'm extremely passionate about technology. I found my love of software and hardware engineering during the height of Covid when I was stuck at home, and it's only grown as I've propelled myself into UCSD and its many student organizations such as ACM and CSES! I'm currently working on many different websites and mobile applications, and getting into embedded development to get closer hands-on experience with hardware. Ask me about anything technology, I'd love to chat!
+
+ 📫 How to reach me:
+
+ [LinkedIn](https://www.linkedin.com/in/phillip-mai-8b6a632b5/?trk=opento_sprofile_topcard)
 <!--
 **Phil5184/Phil5184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
